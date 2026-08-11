@@ -1,15 +1,4 @@
-# LJMU Software Engineering Organisation
+# [LJMU Software Engineering Team](https://l.ljmu.dev/portfolio)
 
-Our Website: [www.ljmu.dev](https://www.ljmu.dev)
-
-## 🙋‍♀️ Intro
-
-Welcome to the LJMU Software Engineering Team organisation!
-
-This organisation is the home of any projects created by 2023 students at [Liverpool John Moore's University](https://www.ljmu.ac.uk).
-
-Projects may consist of propositions by students, and also projects proposed by staff. If there is a projet that you think we could complete as a cohort, please get in touch with one of your module leaders.
-
-## 📝 Contributing
-
-If you would like to contribute to any of the projects seen in this repository, please contact the project lead to be added, you will then be invited to the organisation to be given repository access.
+> [!IMPORTANT]
+> This organisation is no longer in use. The LJMU Software Engineering team currently operates from https://l.ljmu.dev/gitlab. Any code in this GitHub organisation should be treated as archived, and is no longer updated or maintained. 
